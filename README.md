@@ -4,13 +4,15 @@ I'm a PMP-certified professional with over 9 years of experience at Apple.
 
 Throughout my career at Apple, I've had the opportunity to work across customer support, operations, Response Validation, and User Acceptance Testing. Those experiences have strengthened my ability to understand business requirements, investigate complex issues, and collaborate with cross-functional teams to improve digital experiences and product quality.
 
-Outside of work, I build software and AI systems that solve real business problems.
+Outside of work, I enjoy building software, AI systems, and automation solutions that solve real business problems. I'm passionate about turning ideas into products that people can actually use.
 
 ## 🚀 Featured Project
 
-### Aureon
+### Aureon *(Currently in Development)*
 
-Aureon is a native iOS application built with Swift that combines AI-powered market insights, portfolio tracking, ETF flows, and real-time cryptocurrency intelligence to help investors make more informed decisions.
+Aureon is a native iOS application I'm building with Swift that combines AI-powered market insights, portfolio tracking, ETF flows, and real-time cryptocurrency data into a single experience. My goal is to help investors make more informed decisions through intelligent analysis and a clean, intuitive interface.
+
+**Tech Stack:** Swift • SwiftUI • AI Integration • REST APIs • Real-Time Market Data
 
 ## Currently Building
 
@@ -18,8 +20,6 @@ Aureon is a native iOS application built with Swift that combines AI-powered mar
 - 🤖 AI-powered business solutions
 - 📱 Native iOS applications
 - ⚙️ Workflow automations
-
-## Let's Connect
 
 ## Thanks for stopping by 👋
 
