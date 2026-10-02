@@ -5,11 +5,11 @@ Outside of my day job, I build software, AI systems, and automation tools design
 
 ## 🚀 Featured Project
 
-### Aureon *(Currently in Development)*
-
-Aureon is a native iOS application I'm building with Swift that combines AI-powered market insights, portfolio tracking, ETF flows, and real-time cryptocurrency data into a single experience. My goal is to help investors make more informed decisions through intelligent analysis and a clean, intuitive interface.
-
-**Tech Stack:** Swift • SwiftUI • AI Integration • REST APIs • Real-Time Market Data
+Aureon Intelligence
+A native iOS cryptocurrency intelligence platform built with Swift and SwiftUI, combining AI-powered market insights, portfolio tracking, ETF flows, real-time market data, and intelligent analysis.
+Aureon Local AI
+A local-first AI business agent designed to operate alongside a small-business owner. It includes secure connectors, workflow planning, context-aware orchestration, approval and policy controls, scheduled automations, event-driven automations, and an auditable execution architecture.
+Tech Stack: Swift • SwiftUI • Python • Local AI • LLM Integration • REST APIs • Microsoft Graph • OAuth • Workflow Automation • Agent Orchestration • Git/GitHub
 
 ## Currently Building
 
