@@ -13,10 +13,13 @@ Tech Stack: Swift • SwiftUI • Python • Local AI • LLM Integration • RE
 
 ## Currently Building
 
-- 🚀 Aureon
-- 🤖 AI-powered business solutions
-- 📱 Native iOS applications
-- ⚙️ Workflow automations
+- 🤖 Aureon Local AI agent
+- 📱 Aureon Intelligence for iOS
+- ⚙️ Business workflow automation
+- 🔐 Secure AI connectors and approval systems
+- ⏰ Scheduled automations
+- ⚡ Event-driven automations
+- 📲 Mobile Command Center for iOS & iPadOS
 
 ## Thanks for stopping by 👋
 
