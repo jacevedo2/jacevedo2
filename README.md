@@ -1,6 +1,6 @@
 # Hi, I'm Jose 👋
 
-I’m a PMP-certified professional with 9+ years of experience at Apple across customer support, operations, Response Validation, and User Acceptance Testing.
+I’m a PMP certified professional with 9+ years of experience at Apple across customer support, operations, Response Validation, and User Acceptance Testing.
 Outside of my day job, I build software, AI systems, and automation tools designed to solve real business problems. My recent work spans native iOS development, local AI agents, workflow orchestration, business automation, and secure integrations.
 
 ## 🚀 Featured Project
