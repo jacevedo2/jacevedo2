@@ -8,7 +8,7 @@ Outside of my day job, I build software, AI systems, and automation tools design
 Aureon Intelligence
 A native iOS cryptocurrency intelligence platform built with Swift and SwiftUI, combining AI-powered market insights, portfolio tracking, ETF flows, real-time market data, and intelligent analysis.
 Aureon Local AI
-A local-first AI business agent designed to operate alongside a small-business owner. It includes secure connectors, workflow planning, context-aware orchestration, approval and policy controls, scheduled automations, event-driven automations, and an auditable execution architecture.
+A local first AI business agent designed to operate alongside a small-business owner. It includes secure connectors, workflow planning, context-aware orchestration, approval and policy controls, scheduled automations, event driven automations, and an auditable execution architecture.
 Tech Stack: Swift • SwiftUI • Python • Local AI • LLM Integration • REST APIs • Microsoft Graph • OAuth • Workflow Automation • Agent Orchestration • Git/GitHub
 
 ## Currently Building
